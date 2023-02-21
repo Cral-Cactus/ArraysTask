@@ -1,0 +1,8 @@
+C:\Marian - 9D\Exam21Feb\Exam1\bin\Debug\Exam1.exe.config
+C:\Marian - 9D\Exam21Feb\Exam1\bin\Debug\Exam1.exe
+C:\Marian - 9D\Exam21Feb\Exam1\bin\Debug\Exam1.pdb
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Exam1.csproj.AssemblyReference.cache
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Exam1.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Exam1.exe
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Exam1.pdb

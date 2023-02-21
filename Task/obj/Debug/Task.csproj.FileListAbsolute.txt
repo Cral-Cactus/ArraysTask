@@ -1,0 +1,16 @@
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\Exam21Feb\Exam1\bin\Debug\Task.exe.config
+C:\Marian - 9D\Exam21Feb\Exam1\bin\Debug\Task.exe
+C:\Marian - 9D\Exam21Feb\Exam1\bin\Debug\Task.pdb
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Task.exe
+C:\Marian - 9D\Exam21Feb\Exam1\obj\Debug\Task.pdb
+C:\Marian - 9D\Exam21Feb\Task\bin\Debug\Task.exe.config
+C:\Marian - 9D\Exam21Feb\Task\bin\Debug\Task.exe
+C:\Marian - 9D\Exam21Feb\Task\bin\Debug\Task.pdb
+C:\Marian - 9D\Exam21Feb\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Marian - 9D\Exam21Feb\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+C:\Marian - 9D\Exam21Feb\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Marian - 9D\Exam21Feb\Task\obj\Debug\Task.exe
+C:\Marian - 9D\Exam21Feb\Task\obj\Debug\Task.pdb
